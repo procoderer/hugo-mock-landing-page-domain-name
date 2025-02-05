@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'https://procoderer.github.io/hugo-mock-landing-page/'
 title = "MangaSync"
-author = "Filipe Carneiro"
-copyright = "CopyRight © 2025 Yun Zheng"
+author = "Yun Zheng"
+copyright = "Yun Zheng"
 
 timeZone = 'Europe/London'
 

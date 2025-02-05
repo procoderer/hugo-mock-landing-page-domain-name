@@ -8,4 +8,6 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+Email: funyun@sas.upenn.edu
+
+Github: [procoderer](https://github.com/procoderer)

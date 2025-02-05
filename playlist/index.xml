@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playlists on MangaSync</title>
+    <link>https://procoderer.github.io/hugo-mock-landing-page/playlist/</link>
+    <description>Recent content in Playlists on MangaSync</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Yun Zheng</copyright>
+    <lastBuildDate>Tue, 04 Feb 2025 23:41:20 -0500</lastBuildDate>
+    <atom:link href="https://procoderer.github.io/hugo-mock-landing-page/playlist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power of Friendship</title>
+      <link>https://procoderer.github.io/hugo-mock-landing-page/playlist/power-of-friendship/</link>
+      <pubDate>Tue, 04 Feb 2025 22:24:10 -0500</pubDate>
+      <guid>https://procoderer.github.io/hugo-mock-landing-page/playlist/power-of-friendship/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Song 1&lt;/li&gt;&#xA;&lt;li&gt;Song 2&lt;/li&gt;&#xA;&lt;li&gt;Song 3&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Chill</title>
+      <link>https://procoderer.github.io/hugo-mock-landing-page/playlist/chill/</link>
+      <pubDate>Tue, 04 Feb 2025 21:24:10 -0500</pubDate>
+      <guid>https://procoderer.github.io/hugo-mock-landing-page/playlist/chill/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Song 1&lt;/li&gt;&#xA;&lt;li&gt;Song 2&lt;/li&gt;&#xA;&lt;li&gt;Song 3&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Hype</title>
+      <link>https://procoderer.github.io/hugo-mock-landing-page/playlist/hype/</link>
+      <pubDate>Mon, 03 Feb 2025 21:24:10 -0500</pubDate>
+      <guid>https://procoderer.github.io/hugo-mock-landing-page/playlist/hype/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Song 1&lt;/li&gt;&#xA;&lt;li&gt;Song 2&lt;/li&gt;&#xA;&lt;li&gt;Song 3&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-# hugo-mock-landing-page
+# Hugo Mock Landing Page
 
 A landing page made using Hugo
 

@@ -1,4 +1,4 @@
-baseURL = 'https://procoderer.github.io/hugo-mock-landing-page/'
+baseURL = 'https://procoderer.github.io/hugo-mock-landing-page-autodeployed/'
 title = "MangaSync"
 author = "Yun Zheng"
 copyright = "Yun Zheng"

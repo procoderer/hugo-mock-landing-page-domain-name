@@ -1,4 +1,4 @@
-# Hugo Mock Landing Page
+# Hugo Mock Landing Page Autodeployed
 
 ## Workflow Overview
 
@@ -13,4 +13,5 @@ The .github/workflows/gh-pages-deployment.yaml file sets up an automated process
 4. Deploy to GitHub Pages: Publishes the generated site to the gh-pages branch using the peaceiris/actions-gh-pages action.
 
 ## Author
+
 Yun Zheng

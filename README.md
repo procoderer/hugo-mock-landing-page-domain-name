@@ -1,4 +1,4 @@
-# Hugo Mock Landing Page Autodeployed
+# Hugo Mock Landing Page Domain Name
 
 ## Workflow Overview
 
